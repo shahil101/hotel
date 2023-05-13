@@ -1,0 +1,11 @@
+@media(max-width: 991px){
+  .about_wrapper {
+      padding-top: 26rem;
+    }
+}
+@media(max-width: 500px){
+  .mr{
+    margin-top: 0!important;
+    padding-top: 0!important;
+  }
+}
